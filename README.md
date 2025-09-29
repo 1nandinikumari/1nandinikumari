@@ -36,7 +36,7 @@
 
 ## 🔹 Connect with Me  
 🌐 [LinkedIn](https://www.linkedin.com/in/nandini-kumari-5aba4a219/)  
-📧 Email: your.email@example.com  
+📧 Email: nandinikumari166@gmail.com 
 
 ---
 ⭐ From [Nandini](https://github.com/1nandinikumari) 

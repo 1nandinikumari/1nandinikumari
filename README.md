@@ -35,8 +35,9 @@
 ---
 
 ## 🔹 Connect with Me  
-🌐 [LinkedIn](https://www.linkedin.com/in/nandini-kumari-5aba4a219/)  
-📧 Email: nandinikumari166@gmail.com 
+🌐 [LinkedIn](https://www.linkedin.com/in/nandini-kumari-5aba4a219/) - Let's Connect Professionally
+📧 [Gmail](nandinikumari166@gmail.com) - Drop me an email anytime
+🖥️ [GitHub](https://github.com/1nandinikumari/SQL-Data-Warehouse_Project) - Explore My Project
 
 ---
 ⭐ From [Nandini](https://github.com/1nandinikumari) 

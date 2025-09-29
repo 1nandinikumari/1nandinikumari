@@ -16,7 +16,7 @@
 
 ## 🔹 Tech Stack  
 💻 **Languages & Tools:**  
-- SQL | PL/SQL  
+- SQL   
 - Python  
 - Power BI | Excel | Tableau  
 

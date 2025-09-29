@@ -1,6 +1,6 @@
 ## 👋Hi there, I'm Nandini
 
-💻 **System Engineer | Aspiring Data Analyst | IT Professional**  
+💻 **System Engineer | IT Professional**  
 🔎 Passionate about data, analytics, and generating insights to solve business problems.  
 
 ---

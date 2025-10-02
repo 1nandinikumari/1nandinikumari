@@ -1,5 +1,5 @@
 <h1 align="center"> 🌸 Hi there, I'm Nandini Kumari</h1>
-<h3 align="center">💻 System Engineer | IT Professional | Passionate about data, analytics, and generating insights to solve business problems.</h3>
+<h3 align="center">💻 System Engineer | IT Professional </h3>
 </p>
 
 --- 

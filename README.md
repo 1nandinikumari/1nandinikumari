@@ -1,9 +1,19 @@
 # 🌸 Hi there, I'm Nandini #
-I'm an IT Professional with 3+ years of experience. Passionate about data, analytics, and generating insights to solve business problems. 
+Welcome to my little corner of GitHub!  
+I’m Passionate about data, analytics, and generating insights to solve business problems. 
+---
+
+## 🔹 About Me  
+- 🏢 IT Professional with 3+ years of experience in TCS  
+- 📊 Strong experience in **SQL, PL/SQL, Power BI, Excel, and Python**  
+- 📈 Worked on projects involving **credit card transaction/customer analytics** and created interactive dashboards in Power BI  
+- 🌱 Currently learning advanced **Data Analytics & Business Intelligence** techniques  
+- 💬 Ask me about SQL, Power BI, or Data Visualization  
 
 --- 
 ## 🔹 Tech Stack  
 💻 **Languages & Tools:**  
+
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white) 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) 
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white) 
@@ -36,4 +46,4 @@ I'm an IT Professional with 3+ years of experience. Passionate about data, analy
  
 
 ---
-⭐ From [Nandini](https://github.com/1nandinikumari) 
+

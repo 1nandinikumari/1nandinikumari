@@ -2,8 +2,7 @@
 
 Welcome to my little corner of GitHub!  
 I’m passionate about data, analytics, and generating insights to solve business problems. 
-
-## 🔹 About Me  
+ 
 - 🏢 IT Professional with 3+ years of experience in TCS  
 - 📊 Strong experience in **SQL, PL/SQL, Power BI, Excel, and Python**  
 - 📈 Worked on projects involving **credit card transaction/customer analytics** and created interactive dashboards in Power BI  
@@ -46,4 +45,13 @@ I’m passionate about data, analytics, and generating insights to solve busines
  
 
 ---
+## 📈 Profile Stats
 
+<!-- GitHub Stats Card -->
+<img src="https://github-readme-stats.vercel.app/api?username=1nandinikumari&show_icons=true&theme=dark" alt="GitHub Stats" />
+
+<!-- Top Languages Card -->
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=1nandinikumari&layout=compact&theme=dark" alt="Top Languages" />
+
+<!-- Profile Views Badge -->
+[![Profile Views](https://komarev.com/ghpvc/?username=1nandinikumari&style=for-the-badge&color=blue)](https://github.com/1nandinikumari)

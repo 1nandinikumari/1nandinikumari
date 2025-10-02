@@ -25,7 +25,7 @@
 
 ## 🔹 Connect with Me  
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nandini-kumari-5aba4a219/)
-[![Gmail](https://img.shields.io/badge/Gmail-0077B5?style=for-the-badge&logo=Gmail&logoColor=red)](https://mail.google.com/mail/u/0/#inbox)
+[![Gmail]([https://img.shields.io/badge/Gmail-0077B5?style=for-the-badge&logo=Gmail&logoColor=red](https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo))](https://mail.google.com/mail/u/0/#inbox)
 [![GitHub](https://img.shields.io/badge/GitHub-0077B5?style=for-the-badge&logo=GitHub&logoColor=black)](https://github.com/1nandinikumari)
 ---
 ⭐ From [Nandini](https://github.com/1nandinikumari) 

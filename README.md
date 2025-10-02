@@ -1,4 +1,5 @@
-# 🌸 Hi there, I'm Nandini #
+## 🌸 Hi there, I'm Nandini 
+
 Welcome to my little corner of GitHub!  
 I’m Passionate about data, analytics, and generating insights to solve business problems. 
 ---

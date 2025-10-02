@@ -1,4 +1,4 @@
-<h1 align="center"> 🌸 Hi there, I'm Nandini Kumari</h1>
+<h1 align="center"> 🌸 Hi there, I'm Nandini </h1>
 <h3 align="center">💻 System Engineer | IT Professional </h3>
 </p>
 

@@ -1,6 +1,5 @@
-<h1 align="center"> 🌸 Hi there, I'm Nandini </h1>
-<h3 align="center">💻 System Engineer | IT Professional </h3>
-</p>
+# 🌸 Hi there, I'm Nandini #
+I'm an IT Professional with 3+ years of experience. Passionate about data, analytics, and generating insights to solve business problems. 
 
 --- 
 ## 🔹 Tech Stack  

@@ -4,7 +4,7 @@ Welcome to my little corner of GitHub!
 I’m passionate about data, analytics, and generating insights to solve business problems. 
  
 - 🏢 IT Professional with 3+ years of experience in TCS  
-- 📊 Strong experience in **SQL, PL/SQL, Power BI, Excel, and Python**  
+- 📊 Strong experience in **SQL, Power BI, Excel, and Python**  
 - 📈 Worked on projects involving **credit card transaction/customer analytics** and created interactive dashboards in Power BI  
 - 🌱 Currently learning advanced **Data Analytics & Business Intelligence** techniques  
 - 💬 Ask me about SQL, Power BI, or Data Visualization  
